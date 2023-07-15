@@ -44,36 +44,7 @@
 <br/>  
 
 
-## Connect with me  
-<a href="https://github.com/https://github.com/Steve5wutongyu6" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Steve5wutongyu6&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Steve5wutongyu6&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
